@@ -1,7 +1,7 @@
 # Obtener la Cotización de Criptomonedas desde una API con react
 Aplicación creada en react js para obtener la cotización de criptomonedas desde una api.
 
-### [Demostración](https://crosscay.github.io/cotizador_de_criptomonedas/)
+### [Demostración](https://cotizador-de-criptomonedas-react-js.netlify.app/)
 
 ### Sceenshot
 ![cripto1](https://user-images.githubusercontent.com/15184739/90995951-0ffdf700-e583-11ea-9d94-fbc7fb56c08c.PNG)
@@ -12,7 +12,7 @@ Aplicación creada en react js para obtener la cotización de criptomonedas desd
 Para iniciar el proyecto utilice:
 
 ```bash
-$ git clon https://github.com/crosscay/cotizador_de_criptomonedas.git
+$ git clon https://github.com/crosscay/cotizador-de-criptomonedas-react-js.git
 $ cd cotizador_de_criptomonedas
 # instala las dependencias del proyecto
 $ npm i
